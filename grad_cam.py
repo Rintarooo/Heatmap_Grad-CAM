@@ -57,7 +57,7 @@ def make_heatmap(x, model, preds):
 		layer_output_value[:,:,i] = layer_output_value[:,:,i]*pooled_grads_value[i]
 		
 	heatmap = np.mean(layer_output_value, axis = -1)
-	print('heatmap.shape',heatmap.shape)#(14,14)
+	#print('heatmap.shape',heatmap.shape)#(14,14)
 	heatmap = np.maximum(heatmap, 0)
 	heatmap /= np.max(heatmap)
 	#plt.matshow(heatmap)#matshow for a matrix
