@@ -8,6 +8,8 @@ Blended an image from ImageNet and a heatmap
 
 You can change a blending percentage in GUI using a bar
 
+If you want to try a different image, you should download images from [ImageNet](http://www.image-net.org/) and save in image_dir, then change <img_path> in main.py
+
 ### Reference
 [deep-learning-with-python-notebooks/5.4-visualizing-what-convnets-learn.ipynb](https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/5.4-visualizing-what-convnets-learn.ipynb)
 
