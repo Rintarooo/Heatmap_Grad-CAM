@@ -6,9 +6,9 @@ You can see which parts of an image VGG16 model was seeing for predicting
 
 Blended an image from ImageNet and a heatmap
 
-You can change blending percentage in GUI
+You can change a blending percentage in GUI using a bar
 
 ### Reference
 [deep-learning-with-python-notebooks/5.4-visualizing-what-convnets-learn.ipynb](https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/5.4-visualizing-what-convnets-learn.ipynb)
 
-[Research Paper](https://arxiv.org/pdf/1610.02391.pdf)
+[Research Paper for Grad-CAM](https://arxiv.org/pdf/1610.02391.pdf)
