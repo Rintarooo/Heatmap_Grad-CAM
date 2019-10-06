@@ -13,7 +13,7 @@ If you want to try a different image, you should download images from [ImageNet]
 ## Usage
 Execute using following command
 
-≠≠≠python main.py≠≠≠
+```python main.py```
 
 ## Reference
 [deep-learning-with-python-notebooks/5.4-visualizing-what-convnets-learn.ipynb](https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/5.4-visualizing-what-convnets-learn.ipynb)
